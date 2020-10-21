@@ -1,0 +1,8 @@
+{
+  "PREFIX": ".", 
+  "TOKEN": "NzU4NjAxNjk2MDQ5MzY1MDMy.X2xU4g.7dtvjlDRPS4vVUfzCLckw3eDuIg", 
+  "YOUTUBE_API_KEY": "AIzaSyAicGtkG3W9xSLLm4YxXcOoAYPBiDTrIzg",
+  "QUEUE_LIMIT": 0,
+  "COLOR": "BLUE",
+  "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=734301105948852366&permissions=8&redirect_uri=https%3A%2F%2Flocalhost%3A3000%2F&scope=bot" 
+}
